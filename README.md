@@ -16,7 +16,7 @@ The framework for creating the LLM-NodeJS Dataset and performing JavaScript auth
 
 We are releasing all Google Colab code to **support open science and research**. The results can be reproduced and validated using the following baseline scripts.
 
-- Dataset generation: [📂 Download 1_DATASET_generation_google_colab.ipynb](https://raw.githubusercontent.com/LLM-NodeJS-dataset/LLM-NodeJS-dataset/main/1_DATASET_generation_google_colab.ipynb)
+- Dataset generation: [📂 1_DATASET_generation_google_colab.ipynb](https://github.com/LLM-NodeJS-dataset/LLM-NodeJS-dataset/blob/main/1_DATASET_generation_google_colab.ipynb)
 
 
 
