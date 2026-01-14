@@ -11,6 +11,17 @@ The framework for creating the LLM-NodeJS Dataset and performing JavaScript auth
 
 <img width="1693" height="683" alt="image" src="https://github.com/user-attachments/assets/0a204b90-7bd2-4ddb-8296-bab57f9689af" />
 
+
+## Google Colab Script for Research Reproducibility
+
+We are releasing all Google Colab code to **support open science and research**. The results can be reproduced and validated using the following baseline scripts.
+
+- Dataset generation: [📂 Download 1_DATASET_generation_google_colab.ipynb](https://github.com/LLM-NodeJS-dataset/LLM-NodeJS-dataset/blob/main/1_DATASET_generation_google_colab.ipynb)
+
+
+
+
+
 ## Available Datasets
 
 There are currently three types of datasets available: **LLM-NodeJS Small**, **LLM-NodeJS Medium**, and **LLM-NodeJS Large**.
